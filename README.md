@@ -1,7 +1,7 @@
 [![Docker Image CI](https://github.com/f1d094/vlmcsd-container/actions/workflows/docker-image.yml/badge.svg)](https://github.com/f1d094/vlmcsd-container/actions/workflows/docker-image.yml)
 # Containerized vlmcsd
 
-***VLMCSD*** is a free, open-source version of Microsoft's KMS service. This repo maintains a workflow for building a containerized version, hosted by docker.com
+***VLMCSD*** is a free, open-source version of Microsoft's KMS service. This repo maintains a workflow for building a containerized version hosted by docker.com
 
 ## Container:
 https://hub.docker.com/repository/docker/f1d094/vlmcsd
