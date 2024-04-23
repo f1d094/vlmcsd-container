@@ -26,12 +26,12 @@ https://hub.docker.com/repository/docker/f1d094/vlmcsd
 >cscript ospp.vbs /dstatusall  
 
 ## GVLK lookup
-> Operating Systems:
-> https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
-> https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj612867(v=ws.11)
->
-> Office Applications:
-> https://learn.microsoft.com/en-us/DeployOffice/vlactivation/gvlks
+### Operating Systems:
+1) https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
+2) https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj612867(v=ws.11)
+
+### Office Applications:
+1) https://learn.microsoft.com/en-us/DeployOffice/vlactivation/gvlks
 
 ## Source
 > https://github.com/f1d094/vlmcsd
