@@ -1,3 +1,4 @@
+[![Docker Image CI](https://github.com/f1d094/vlmcsd-container/actions/workflows/docker-image.yml/badge.svg)](https://github.com/f1d094/vlmcsd-container/actions/workflows/docker-image.yml)
 # Containerized vlmcsd
 
 ***VLMCSD*** is a free, open-source software to provide an activation service (KMS) for any computer using Windows products
